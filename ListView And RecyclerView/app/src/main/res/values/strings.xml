@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="list">
+
+        <item> Android</item>
+
+        <item> Java</item>
+
+        <item> Php</item>
+
+        <item> C++ </item>
+
+        <item> Android</item>
+
+        <item> Java</item>
+
+        <item> Php</item>
+
+        <item> C++ </item>
+
+        <item> Android</item>
+
+        <item> Java</item>
+
+        <item> Php</item>
+
+        <item> C++ </item>
+
+        <item> Android</item>
+
+        <item> Java</item>
+
+        <item> Php</item>
+
+        <item> C++ </item>
+
+    </string-array>
+</resources>
