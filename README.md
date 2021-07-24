@@ -1,5 +1,7 @@
 Dependency :
-// Koltin Coroutines Dependency
+//
+Koltin Coroutines Dependency
+
 implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-core:1.5.1'
 implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-android:1.5.1'
 
@@ -7,7 +9,6 @@ Add kotlinx-coroutines-android module as a dependency when using kotlinx.corouti
 
 
 
-/
 dependencies {
         val lifecycle_version = "2.4.0-alpha02"
         val arch_version = "2.1.0"
